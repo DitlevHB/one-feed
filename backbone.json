@@ -1,0 +1,18 @@
+{
+  "app": {
+    "address": "0xc1b314E1F24c449965fCc3F9eB085F46bA4aa3D1",
+    "@id": "",
+    "name": "one-feed",
+    "description": "",
+    "website": "",
+    "git": "",
+    "version": "0.0.1",
+    "permissions": []
+  },
+  "settings": {
+    "encryption_key": "823e9f3a118183b6660504bf5d70c091887f8afbbf011c1edfd26828c36724ff",
+    "private": false,
+    "storage": "rai",
+    "forced_auth": false
+  }
+}
